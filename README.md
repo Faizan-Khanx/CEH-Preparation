@@ -14,8 +14,6 @@
 
 * The objective of this repo is to clarify all topics presented on [CEH v11](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/) (ANSI) exam.
 
-## LAST UPDATED ON Nov 5th 2021
-
 ### ⚡︎ **This study guide have some [practical labs] to test your knowledge and learn by doing.**
 ---
 
@@ -23,6 +21,16 @@
 
     - **CEH v11** will be covering new topics like:
         - *Hacking challenges, Emerging attack vectors(Web API, Web Shell etc), Cointainers, Reverse engineering (Static and Dynamic analysis), WPA3, Parrot OS and more.*[[+]](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+
+# WANT TO STUDY MORE PAID AND OFFICIAL COURSES IN FREE ? 
+- **Simply Join Our Telegram Group Here All The Paid Courses Are Uploaded in Free**
+- **[JOIN THIS TELEGRAM GROUP TO STUDY PAID COURSES IN FREE](https://t.me/+SvpVg_GgqMs2YTQ1)**
+#
+
+**After Index All Modules Are Started If You Want To See Only One Specific Module Then See The Index And Click On Module You Want To Study Moreover I Also Added The Website To Study The Material**
+
+- [WEBSITE LINK] ()
+
 
 # Index
 
